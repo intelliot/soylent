@@ -32,3 +32,8 @@ GSP: 10.3 oz = 1 SCP; actual = 5.5 oz
 PPP: 1X 25g scoop
 FSM: as above
 RFB: as above
+
+Batches: II
+
+9/13/2013
+9/15/2013
