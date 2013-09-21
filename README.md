@@ -33,7 +33,8 @@ PPP: 1X 25g scoop
 FSM: as above
 RFB: as above
 
-Batches: II
+Batches: III
 
 9/13/2013
 9/15/2013
+9/21/2013
